@@ -9,9 +9,9 @@
     "start": "http-server .",
     "test": "jest",
     "format": "prettier . --write",
-    "basic": "node src/basic.js",
-    "simple": "node src/simple.js",
-    "cubism": "node src/cubism.js",
+    "basic": "node src/basic.mjs",
+    "simple": "node src/simple.mjs",
+    "cubism": "node src/cubism.mjs",
     "jquery": "node src/jquery.js"
   },
   "dependencies": {
