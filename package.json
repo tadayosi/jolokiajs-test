@@ -11,7 +11,8 @@
     "format": "prettier . --write",
     "basic": "node src/basic.js",
     "simple": "node src/simple.js",
-    "cubism": "node src/cubism.js"
+    "cubism": "node src/cubism.js",
+    "jquery": "node src/jquery.js"
   },
   "dependencies": {
     "cubism": "^1.6.0",
