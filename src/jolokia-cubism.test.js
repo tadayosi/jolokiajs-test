@@ -18,9 +18,9 @@ describe('jolokia-cubism', () => {
           attribute: 'HeapMemoryUsage',
           path: 'used',
         },
+        status: 200,
         value: 12345,
         timestamp: 1694682372,
-        status: 200,
       }),
     }))
 
