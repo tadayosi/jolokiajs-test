@@ -10,13 +10,14 @@
     "test": "jest",
     "format": "prettier . --write",
     "basic": "node src/basic.mjs",
+    "bulk": "node src/bulk.mjs",
     "simple": "node src/simple.mjs",
     "cubism": "node src/cubism.mjs",
     "jquery": "node src/jquery.js"
   },
   "dependencies": {
     "cubism": "^1.6.0",
-    "jolokia.js": "^2.0.0-dev.3",
+    "jolokia.js": "^2.0.0-dev.9",
     "jquery": "^3.7.1",
     "jsdom": "^22.1.0"
   },
